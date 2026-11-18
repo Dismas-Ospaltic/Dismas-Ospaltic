@@ -33,10 +33,13 @@ I enjoy building practical software, solving real problems, and learning somethi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-14b8a6?logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Backend & Databases
+
 ![Node.js](https://img.shields.io/badge/Node.js-0f766e?logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f766e?logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-14b8a6?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f766e?logo=mongodb&logoColor=white)
-![Room DB](https://img.shields.io/badge/Room%20DB-14b8a6?logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-14b8a6?logo=sqlite&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room%20DB-0f766e?logo=android&logoColor=white)
 
 ---
 
